@@ -6,7 +6,7 @@ import { defineConfig, fontProviders, passthroughImageService } from 'astro/conf
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
+	site: 'https://www.victorgomezdejuan.com',
 	image: {
 		// Cloudflare Pages does not provide Astro's /_image endpoint.
 		service: passthroughImageService(),
