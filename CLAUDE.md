@@ -44,10 +44,9 @@ When asked to publish an article:
 
 ## Site branding — known gaps
 
-`src/components/Header.astro` and `Footer.astro` originally shipped with the unmodified Astro starter's social links (Mastodon/Twitter/GitHub pointing at Astro's own accounts) and "Your name here" in the footer; fixed on 2026-07-25 to show only GitHub, linking to https://github.com/victorgomezdejuan. Two things from the same starter template are still unfixed and need Víctor's input rather than invented copy:
+`src/components/Header.astro` and `Footer.astro` originally shipped with the unmodified Astro starter's social links (Mastodon/Twitter/GitHub pointing at Astro's own accounts) and "Your name here" in the footer; fixed on 2026-07-25 to show only GitHub, linking to https://github.com/victorgomezdejuan. The homepage (`src/pages/index.astro`) and About page (`src/pages/about.astro`) originally shipped with the starter's boilerplate copy ("Hello, Astronaut!"/Lorem Ipsum) and a stock placeholder image; replaced on 2026-07-25 with real copy (bio drawn from Víctor's Notion workspace, deliberately excluding health/relationship/family details that aren't meant for a public page) and a generated hero banner (`src/assets/about-hero.png`) matching the blog post hero style.
 
-- `src/consts.ts` — `SITE_TITLE`/`SITE_DESCRIPTION` are real copy now ("Víctor Gómez de Juan" / a short tagline) but double-check the wording still matches how he wants to present the site.
-- `src/pages/about.astro` — still Lorem Ipsum placeholder text and a stock placeholder image. Needs an actual bio before it's presentable.
+- `src/consts.ts` — `SITE_TITLE`/`SITE_DESCRIPTION` are real copy ("Víctor Gómez de Juan" / a short tagline) but still worth double-checking with Víctor: the About/homepage copy now mentions broader topics (deporte, nutrición, desarrollo personal) beyond just software, and the tagline hasn't been revisited to match.
 
 ## Documentation
 
