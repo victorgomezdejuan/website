@@ -7,6 +7,7 @@
 :root {
 	--accent: #2337ff;
 	--accent-dark: #000d8a;
+	--accent-tint: 35, 55, 255;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
@@ -15,6 +16,8 @@
 	--box-shadow:
 		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
 		0 16px 32px rgba(var(--gray), 33%);
+	--content-width: 720px;
+	--bleed-width: 1040px;
 }
 body {
 	font-family: var(--font-atkinson);
@@ -47,18 +50,22 @@ h6 {
 }
 h1 {
 	font-size: 3.052em;
+	letter-spacing: -0.02em;
 }
 h2 {
-	font-size: 2.441em;
+	font-size: 2.2em;
+	letter-spacing: -0.015em;
+	margin-top: 2em;
 }
 h3 {
-	font-size: 1.953em;
+	font-size: 1.7em;
+	letter-spacing: -0.01em;
 }
 h4 {
-	font-size: 1.563em;
+	font-size: 1.4em;
 }
 h5 {
-	font-size: 1.25em;
+	font-size: 1.15em;
 }
 strong,
 b {
@@ -66,15 +73,19 @@ b {
 }
 a {
 	color: var(--accent);
+	text-decoration-color: rgba(var(--accent-tint), 35%);
+	text-underline-offset: 0.15em;
+	transition: color 0.15s ease, text-decoration-color 0.15s ease;
 }
 a:hover {
-	color: var(--accent);
+	color: var(--accent-dark);
+	text-decoration-color: currentColor;
 }
 p {
 	margin-bottom: 1em;
 }
 .prose p {
-	margin-bottom: 2em;
+	margin-bottom: 1.4em;
 }
 textarea {
 	width: 100%;
@@ -92,26 +103,75 @@ img {
 	border-radius: 8px;
 }
 code {
-	padding: 2px 5px;
+	padding: 0.15em 0.4em;
 	background-color: rgb(var(--gray-light));
-	border-radius: 2px;
+	border-radius: 5px;
+	font-size: 0.85em;
 }
 pre {
 	padding: 1.5em;
-	border-radius: 8px;
+	border-radius: 12px;
 }
 pre > code {
 	all: unset;
 }
 blockquote {
-	border-left: 4px solid var(--accent);
-	padding: 0 0 0 20px;
-	margin: 0;
-	font-size: 1.333em;
+	position: relative;
+	margin: 2em 0;
+	padding: 1.3em 1.6em 1.3em 3.2em;
+	background: rgba(var(--accent-tint), 5%);
+	border-left: 3px solid var(--accent);
+	border-radius: 0 14px 14px 0;
+	font-size: 1em;
+	font-style: italic;
+	color: rgb(var(--gray-dark));
+}
+blockquote::before {
+	content: '\201C';
+	position: absolute;
+	top: 0.05em;
+	left: 0.25em;
+	font-family: Georgia, serif;
+	font-style: normal;
+	font-size: 2.6em;
+	line-height: 1;
+	color: rgba(var(--accent-tint), 35%);
+}
+blockquote p {
+	margin-bottom: 0.75em;
+}
+blockquote p:last-child {
+	margin-bottom: 0;
 }
 hr {
 	border: none;
 	border-top: 1px solid rgb(var(--gray-light));
+	margin: 2em 0;
+}
+
+/* Article body: a comfortable reading column with images that
+   bleed wider than the text, so screenshots get room to breathe
+   without stretching the paragraph column to match. */
+.prose {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr) min(var(--content-width), 100%) minmax(0, 1fr);
+	width: 100%;
+	max-width: 1180px;
+	margin: 0 auto;
+	padding: 1em;
+	color: rgb(var(--gray-dark));
+}
+.prose > * {
+	grid-column: 2;
+}
+.prose > p:has(> img:only-child) {
+	grid-column: 1 / 4;
+	text-align: center;
+	margin: 0.5em 0 1.8em;
+}
+.prose > p:has(> img:only-child) img {
+	max-width: min(var(--bleed-width), 100%);
+	vertical-align: middle;
 }
 @media (max-width: 720px) {
 	body {
@@ -119,6 +179,9 @@ hr {
 	}
 	main {
 		padding: 1em;
+	}
+	.prose {
+		padding: 0.5em 0;
 	}
 }
 
