@@ -2,11 +2,15 @@
 
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import { defineConfig, fontProviders } from 'astro/config';
+import { defineConfig, fontProviders, passthroughImageService } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://example.com',
+	image: {
+		// Cloudflare Pages does not provide Astro's /_image endpoint.
+		service: passthroughImageService(),
+	},
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
