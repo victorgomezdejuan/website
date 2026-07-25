@@ -2,7 +2,7 @@
 title: 'Cómo empezar a usar GitHub Copilot en un equipo de desarrollo de software (sin alardes)'
 description: 'Una guía práctica sobre cómo usar GitHub Copilot en un equipo: modelos, instrucciones, skills, servidores MCP y mejora continua.'
 pubDate: 'Jul 25 2026'
-heroImage: '../../assets/copilot-team/copilot-team-1.png'
+heroImage: '../../assets/copilot-team/copilot-team-hero.png'
 ---
 
 ## Hype vs. realidad
