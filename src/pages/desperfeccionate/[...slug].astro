@@ -1,0 +1,23 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import ArchivePost from '../../layouts/ArchivePost.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('desperfeccionate');
+	return posts.map((post) => ({
+		params: { slug: post.id },
+		props: post,
+	}));
+}
+type Props = CollectionEntry<'desperfeccionate'>;
+
+const post = Astro.props;
+const { Content } = await render(post);
+
+const noticeText =
+	'Este es un artículo antiguo de Desperfecciónate, mi anterior web de desarrollo personal. Lo republico tal cual por si le sirve a alguien, sin revisarlo ni actualizarlo.';
+---
+
+<ArchivePost {...post.data} noticeText={noticeText}>
+	<Content />
+</ArchivePost>
