@@ -2,6 +2,7 @@
 title: 'Cómo estoy usando la IA a nivel personal'
 description: 'Así uso hoy la IA en mi día a día: personalización de ChatGPT, proyectos, Google AI, Claude Code y otros recursos, sin fuegos artificiales.'
 pubDate: 'Aug 1 2026'
+heroImage: '../../assets/ia-personal/ia-personal-hero.png'
 ---
 
 Cada día vemos diferentes publicaciones mostrándonos cómo la IA ha cambiado la vida, o una parte importante de ésta, a personas y empresas. Parece que sirve para todo, y que si todavía sigues haciendo algo manualmente, es que estás haciendo algo mal o te estás quedando atrás.
