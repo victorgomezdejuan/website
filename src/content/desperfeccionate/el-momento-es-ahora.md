@@ -64,7 +64,3 @@ Y existe otra variable. **Si estás constantemente esforzándote, sacrificando t
 Por tanto, **cuando llegues a esa meta (insisto, si es que llegas), nunca será como lo habías proyectado**. Primero porque la vida es dinámica, y esa imagen es estática, por lo que, como mucho, y con mucho autoengaño, el placer de haberla alcanzado puede durar un periodo corto de tiempo. Segundo, porque cuando llegues ahí, tu cerebro querrá más, querrá seguir en lo que ha aprendido, en sus hábitos de chimpacé 2.0: esfuerzo y sacrificio, llegar a más, seguir creciendo y acumulando.
 
 Lo más interesante de esto es que no aplica sólo a metas externas, sino también a metas internas. Ansiando dejar de ansiar, generas más ansiedad. Suelta, deja estar, fluye.
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

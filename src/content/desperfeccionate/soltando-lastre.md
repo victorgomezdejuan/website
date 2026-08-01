@@ -35,7 +35,3 @@ Es posible que, desde esa nada, ya nada ambicionemos. Ya no tengamos la necesida
 Pues, realmente, según parece indicar la física cuántica, somos eso: relación. El observador y lo observado. Una cosa no existe, o no podemos saber si existe, sin la otra. Si ponemos por delante una idea, que no existe, y dejamos de lado las relaciones (con el medio ambiente, con el resto de personas y con nuestro cuerpo-mente), que sí existen, consecharemos resultados como los que estamos teniendo. Desconectados de nuestro entorno, de los demás, de nuestro cuerpo y de nuestra mente.
 
 Las guerras, sean estás bélicas, verbales o psicólogicas, nacen de la mente. De la de tod@s y cada un@ de nosotr@s. Puedes cambiar una ambición abominable por otra considerada noble. Pero la ambición genera confrontación, conflicto, contradicción. Podemos seguir disfrazándola, o podemos, aunque *dé un miedo que te cagas*, reconocerla. Y desde esa honestidad con un@ mism@, dar pie al nacimiento de una nueva forma de ver el mundo, la vida, la realidad, y tu lugar en ellos.
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

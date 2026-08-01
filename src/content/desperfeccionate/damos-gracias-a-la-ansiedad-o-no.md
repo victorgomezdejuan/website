@@ -49,7 +49,3 @@ Los conceptos son útiles para el curro, para comunicarnos y para ciertas tareas
 De la misma manera, entiendo que eso que llamo ansiedad son momentos de cierta prologación en el tiempo de pensamientos y emociones que catalogo como desagradables. Y, sobre todo, **he experimentado en carne propia lo contraproducente que resulta compararme con alguien, buscar un salvador o ansiar alcanzar una meta irreal construida por la mente**. No digo que no se pueda superar la ansiedad, ojo. Al final es un concepto, y cada persona le dará un significado. Digo que la ansiedad en sí misma es un concepto mental, no la realidad. Y que, por tanto, la frase "he superado la ansiedad" tiene su trampa.
 
 Eso que buscamos, seguramente esté más relacionado con entender esta manera que tenemos de pensar en conceptos que en tratar de alcanzar uno de ellos. Y si no es así, yo al menos, ya tendré tiempo de variar el **proceso** 😉.
-
-### Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

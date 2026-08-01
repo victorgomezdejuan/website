@@ -38,7 +38,3 @@ Lees un libro que te motiva a hacer algo y eso te hace conocer a una persona con
 Si no sabes tu propósito, anda, experimenta, vive. Y si *sabes* tú propósito, anda, experimenta, vive, según lo que creas que te indica ese propósito. E igual te llevas una sorpresa y en 10 años… ese propósito… ¡Ha cambiado! O no. 😊😊
 
 Buena suerte, caminante.
-
-### Conectemos
-
-**Aviso**: Voy a darle una vuelta a la newsletter y convertirla en un medio en el que compartir reflexiones más espontáneas, íntimas, directas y cortas. Será, por tanto, algo adicional al blog, así que te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)** 😉.

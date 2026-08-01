@@ -45,7 +45,3 @@ Cualquier persona que haya observado sus pensamientos se habrá dado cuenta de q
 Y esta es la esencia del «sé tú el cambio que quieres ver en el mundo». Puedes sermonear a los demás todo lo que quieras, ser todo lo paternalista que te dejen, pero, para generar un cambio real, TÚ TIENES QUE SER EL CAMBIO QUE DESEAR VER EN EL MUNDO. **Predicar con el ejemplo es la mejor forma de enseñar e influenciar a los demás**.
 
 Poco a poco, sin prisas, pero experimentando más y leyendo menos. **Déjemos a un lado el miedo al rechazo para ser seres más fluidos, auténticos y serenos.**
-
-### No te pierdas ningún contenido
-
-Para recibir semanalmente el aviso de los posts que voy publicando (y alguna cosa más que se me ocurra 😉) puedes apuntarte a la lista de distribución del blog en [**este enlace**](https://www.desperfeccionate.com/conectemos-de-verdad/).

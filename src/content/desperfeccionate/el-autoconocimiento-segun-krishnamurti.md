@@ -33,7 +33,3 @@ Según Jiddu, lo único que conseguimos con esto es sustituir una idea por otra,
 De momento, he modificado mi hábito de meditación y ahora estoy todo el tiempo que dura **simplemente observando mis pensamientos y emociones**, como él recomienda. Las técnicas de concentración en un objeto concreto o de visualización, lo que hacen es intentar forzar a la mente para que se centre en algo y descarte todo lo demás. **Y esa separación, como toda separación, genera resistencia y fortalecimiento de un "yo" separado de todo lo demás.** Y, por consiguiente, sufrimiento.
 
 Pero hay mucho más en lo que dice Krishnamurti. De hecho, aunque no le he escuchado o leído dedirlo explícitamente, me da la impresión de que él no aboga por la meditación formal. Por la meditación en aislamiento. Así que es probable que no me quede sólo en ese cambio. Pero, sólo el hecho de planteármelo, ya fortalece la figura de un "yo"... Así que mejor dejo de darle al tarro 😅.
-
-### Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

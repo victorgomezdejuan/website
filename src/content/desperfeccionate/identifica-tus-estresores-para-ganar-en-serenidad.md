@@ -47,7 +47,3 @@ Veamos algunos ejemplos prácticos:
 **Paciencia y motivación**. El camino puede ser largo pero también muy gratificante 😉.
 
 ¿Y tú? ¿Tienes identificados tus estresores? Puedes dejar tus comentarios si quieres.
-
-### Suscripción a newsletter
-
-¡No te pierdas ningún post! Para recibir semanalmente el extracto de los posts que voy publicando puedes apuntarte a la lista de distribución del blog en [**este enlace**](http://eepurl.com/g86S-b).

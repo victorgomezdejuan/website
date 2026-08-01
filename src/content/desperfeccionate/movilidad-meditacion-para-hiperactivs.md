@@ -36,7 +36,3 @@ Aparte de meditar también está el hatha-yoga y las mil variantes que han apare
 Pero... **Tras años de probar y probar, mi técnica favorita, al menos de momento, son las sesiones de movilidad.** Con música guay, para huir un poquito más de lo que es 😬.
 
 Quizás en el futuro publique alguna cosa sobre las sesiones que hago, pero de momento no voy a autoexigirme en ese sentido. De eso va este blog 😜. Te diré eso sí, que hago ejercicios estáticos y dinámicos sobre todas (o casi todas) las partes del cuerpo combinando ejercicios que aparecían en el **[programa Desencadenado](https://www.fitnessrevolucionario.com/programas/desencadenado/)** de Marcos Vazquez, en **[este vídeo](https://www.youtube.com/watch?v=c3_HnM9VMOk)**, y los que me ha enseñado mi amigo **[Héctor](https://www.tuentrenadorenvitoria.es/fitmoveat/)**. La verdad, vídeos en YouTube hay a patadas. Te recomiendo que busques y vayas haciendo las sesiones que proponen hasta que cojas tu propio estilo y encuentras lo que más te beneficia. Recuerda, tú eres tu maestr@ 😉.
-
-### Conectemos
-
-Existe una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

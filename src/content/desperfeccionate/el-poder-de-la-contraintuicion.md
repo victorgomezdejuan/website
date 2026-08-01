@@ -33,7 +33,3 @@ Para una persona oriental, en cambio, es la piedra angular sobre la que pilotar 
 En nuestro caso, el conocimiento adquirido, a través de instituciones educativas, figuras de autoridad o libros, es algo central. Lo más importante que puedes hacer en la vida es educarte, formate y *ser alguien*. Desde la visión más espiritual, este tipo de conocimiento tiene sólo una utilidad técnica, de supervivencia. Pero **para vivir, para disfrutar, para sentir plenamente, debes priorizar la intuición, el presente, la vivencia por encima de la experiencia.**
 
 Qué hermosa dicotomía ésta. El yogui Vivekanada decía que occidente necesitaba más espiritualidad y la India más trabajo. Y yo ya no sé ni qué pensar 😉.
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

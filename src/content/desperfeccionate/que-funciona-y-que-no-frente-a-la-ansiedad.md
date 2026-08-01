@@ -65,7 +65,3 @@ Pero, **mi recomendación, es que, dentro de lo posible, lo hagas desde una acti
 #### Buscar intereses y motivaciones
 
 Leer esta guay. ¡Pero ahí no termina la vida! **Busca otros intereses, a ser posible socializando con otr@s** (dentro de lo permitido en esta época *covidiana*). Monta un blog (como éste o de otro tipo), escribe un diario, un guión, un libro... Haz deporte en grupo (o en solitario si lo prefieres). Pinta, escucha música, toca un instrumento, ayuda a un@ amig@... ¡Qué se yo! ¡Imaginación (consciente) al poder!
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

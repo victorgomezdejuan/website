@@ -33,7 +33,3 @@ De ahí que, como dicen los místicos, **intentar que la mente arregle los propi
 Y cuando nada de eso te sirve, **nuestro propio sistema *peta* y aparecen los trastornos mentales o psicosomáticos**. Por eso mi recomendación es que dejes de buscar el ideal propio o ajeno, y te centres en comprender todos estos procesos. Sin juzgar, sin justificar y sin parchear. Esto último en la medida de lo posible, poco a poco y con la ayuda que necesites. Sin autoexigencias. De ahí, de esa comprensión, ya saldrán las acciones que tengan que salir. Tranquil@, no te vas a convertir en una ameba ni te vas a morir de inactividad.
 
 No estás sól@. Nunca lo estuviste. Un abrazo 😊.
-
-### Conectemos
-
-Existe una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

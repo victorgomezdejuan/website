@@ -35,7 +35,3 @@ Llevamos años volcando la energía de nuestra autodisciplina y autoexigencia ha
 En último término, para vivir con más serenidad, fluidez y productividad, tendremos que soltarlas. Pero de momento, no nos engañemos. Somos perfeccionistas y autoexigentes, ¿no?. Pues... ¡aprovechémoslo! **Volquemos esa capacidad hacia dentro, hacia el autoconocimiento. Tratando de ver las trampas del ego.**
 
 Lo peor que nos puede pasar, es que nos agotemos. Y como dijo [**E. E. Cummings**](https://es.wikipedia.org/wiki/E._E._Cummings): "Sí puedes ser, sé. Si no, levanta el ánimo y ocúpate de asuntos ajenos, haz y deshaz cosas de otros, hasta que revientes.". O desde la visión de Lao Tsé: "Al vencerse a uno mismo, uno gana: nadie puede quitarnos la victoria.". En la redención, está la victoria. Suerte con la no-lucha 😉.
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

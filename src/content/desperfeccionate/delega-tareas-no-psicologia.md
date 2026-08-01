@@ -35,7 +35,3 @@ Te lleva a estar siempre alerta, autoexigiendo, mejorando, creciendo, llegar a s
 Para mí la verdadera autoconfianza está en que pase lo que pase, nadie podrá conocer tu psique mejor que tú. Siempre que sigas siendo autoconsciente, al menos. Y si no lo eres, poco te importará ya este tema. Nadie puede conocerte mejor que tú a tí mism@. Y, ¡ay amig@!, nadie puede conocerse mejor a sí mism@ que los demás a sí mism@s. Las dos caras de la misma moneda 😉.
 
 Así que, menos dependencia y delegar en los demás nuestras historias psicológicas, y menos humos también a la hora de aconsejar y juzgar a los demás. Cómo siempre, sin demonizar, ni mucho menos, ayudas temporales, coyunturales, muletas, apoyos o como lo queramos llamar. Pero, aseguraté de que esas personas te están ayudando a ayudarte a tí mism@, y que tú haces lo mismo con ellas. *Feel free and make them feel free* 😉.
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

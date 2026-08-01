@@ -45,7 +45,3 @@ A lo que quiero llegar, es a decirte que no existe una vía única por dos razon
 La primera es que es imposible acabar con todas nuestras mierdillas acumuladas simplemente leyendo o haciendo algo que nos diga otra persona. Seguir el camino trazado por otra persona a pies juntillas, tarde o temprano te va a llevar a un callejón sin salida. Lo que escribe una persona, incluido este blog, dice mucho de esa persona (en el momento en el que lo escribe), pero muy poco de ti.
 
 La segunda es que, me da en la nariz, que la mayoría de personas que exponemos nuestras estrategias, tácticas, sistemas, estamos, seguramente, tan perdid@s como la mayoría. El autoengaño entre los que estamos "buscando", es tan generalizado con la "ignorancia" entre los que no buscan. **Mi consejo (que no tienes porque seguir) es que dejes de depender de nadie, y busca tu fórmula, para al final terminar desechando hasta tu propia fórmula.**
-
-## Conectemos
-
-Adicional al blog, existe una newsletter donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

@@ -43,7 +43,3 @@ Es por esto, por lo que he vivido y he observado, que me inclino a pensar que la
 Pero, sobre todo, sobre todo… ¿con qué quiero que te quedes? **Cuestiona**. Cuestiona todo lo que leas, lo que te digan… Y verifícalo o refútalo en tu experiencia.
 
 Cuestiona este artículo, y sobre todo te pediría que me lo hicieras saber si tu caso sí es el que se dice en los artículos generalistas 😉. Es decir, si te consideras una persona perfeccionista y a la que se le suele achacar que no finalice las tareas a tiempo.
-
-#### Suscripción
-
-Para recibir semanalmente el extracto de los posts que voy publicando puedes apuntarte a la lista de distribución del blog en [**este enlace**](http://eepurl.com/g86S-b).

@@ -29,7 +29,3 @@ Nos desvela, por ejemplo, cómo fue detectando aquellas tendencias que iba recup
 De esta manera, Jill comprendió la diferencia entre inteligencia (la cuál sigue teniendo a espuertas después del ictus) y sabiduría. Esta última, la que se permitió desarrollar para convertirse en un ser mucho más pleno y consciente.
 
 Seguramente no sea un libro adecuado para hipocondriac@s 😜. Pero, por si quedaba alguna duda, os traslado mi más sincera recomendación sobre su lectura.
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

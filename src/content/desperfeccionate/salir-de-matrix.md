@@ -59,12 +59,4 @@ Yo ahora me voy a tomar un tiempo para poner en práctica lo comprendido y trata
 
 ¿Y tú? ¿Te atreves a iniciar el camino para salir de Matrix?
 
-#### Recibe novedades del blog en tu correo
-
-He creado una lista de suscripción para que puedas recibir, de manera semanal, el extracto de los nuevos posts que vaya escribiendo.
-
-Puedes apuntarte en [**este enlace**](http://eepurl.com/g86S-b).
-
-¡Gracias!
-
 Nota: Artículo originalmente publicado en mi página personal **[www.victorgomezdejuan.com](/desperfeccionate/salir-de-matrix/)**

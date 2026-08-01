@@ -35,7 +35,3 @@ Amig@ *perfeccionista*, creías que tenías que ser moralmente intachable, un(a)
 Y ahora, te pregunto, después de eliminar todas esas creencias y patrones adquiridos, heredados…  ¿qué queda? Pues queda que descubres tu propia naturaleza. Aquella que al ponerla en marcha te hace sentir pleno, sereno, fluido. Pero, al contrario de lo que nos habían contado, ese trabajo es tuyo, y de nadie más.
 
 Según Krishnamurti, curiosamente, este proceso no difiere del de la observación de la naturaleza que he citado anteriormente. Más bien al contrario, **para liberarnos de esas creencias perniciosas o no válidas, lo más efectivo es observar de manera pasiva y alerta todos los mecanismos que desencadenan**, de la misma manera que un primatólogo observa un chimpancé o un biólogo un célula en el microscopio. Sin juzgar, sin condenar, sólo observando con abierta curiosidad. Desaprender sin necesidad de hacer nada, más que observar. Otro enfoque, como el del Eneagrama, que puede parecer contraintuitivo. Pero, te lo aseguro, en lo contraintuitivo se encuentra la magia 😊. Te animo a que pruebes si no lo has hecho ya. ¿Qué tienes que perder?
-
-### Conectemos
-
-**Aviso**: Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si te parece que pueda ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)** 😉.

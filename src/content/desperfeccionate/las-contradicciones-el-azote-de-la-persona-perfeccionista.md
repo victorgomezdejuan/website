@@ -64,11 +64,3 @@ Así que no te voy a dejar ahí, simplemente con tareas divagatorias. ¿Qué cla
 -   [**Medita**](https://www.ivoox.com/meditacion-ramiro-calle_bk_list_180471_1.html). Desidentifícate de tus pensamientos, de esas etiquetas que pones. Eso que llamamos *contradicciones* son procesos de nuestra mente inquieta e hiperactiva. E igual pasa con la etiqueta de perfeccionista. En el Eneagrama primero te *identificas* con un tipo de personalidad para luego trascenderla. Lo mismo intento hacer yo con esta etiqueta. Aunque muchas veces me veas etiquetarme como perfeccionista, lo intento enmarcar siempre en el juego del lenguaje, sin creerme realmente que sea algo estático que está dentro de mí o que sea parte inseparable de mí. Este tema de las contradicciones como ves da para mucho 😂.
 
 **Nota**: Artículo originalmente publicado en mi página personal **[www.victorgomezdejuan.com](/desperfeccionate/las-contradicciones-el-azote-de-la-persona-perfeccionista/)**
-
-#### Recibe las novedades del blog en tu correo
-
-He creado una lista de suscripción para que puedas recibir de manera semanal (en caso de que esa semana haya publicado algún post nuevo) las novedades del blog.
-
-Puedes apuntarte a través de [**este enlace**](http://eepurl.com/g86S-b).
-
-¡Gracias!

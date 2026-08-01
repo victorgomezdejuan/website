@@ -31,7 +31,3 @@ Si no soy de derechas, tendré que ser de izquierdas, y si no, de centro. Los m�
 Ser nada, es jodido. No aguantamos en ese sentimiento ni dos segundos seguidos. Lo pensamos, nos entra el *canguelo* y... ¡abrazamos otra cosa! Uff, que sentimiento más angustioso. Pero en el momento en el que nos identificamos con algo, abrimos una escisión. Entre los frikis y los superficiales, entre los caseros y los sociales, entre los que la saben la verdad y los que no. Y así, vamos pertepuando el conflicto constante.
 
 Y lo más doloroso, por llamarlo de alguna manera, no ocurre fuera, ocurre dentro. Entre tus gustos reales y lo que has "vendido" como que son tus gustos. Entre la parte que le mola el tío mazao de pelo perfecto y la que lo odia. Entre la parte que desdeña el fútbol como algo superfluo y la parte que le encanta ver las *mierdillas* de marca.com. Eso sí, cuando nos pillan, como a los políticos, siempre hay alguna justificación. Y es que, probablemente, una parte no puede vivir sin la otra. Dos caras de la misma moneda. Tanto fuera, como dentro.
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

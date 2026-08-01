@@ -42,7 +42,3 @@ Normalente, ¿cuándo nos suelen aconsejar que tomemos una decisión? Cuando est
 No esperes a llegar a ese 80-90%, porque no va a llegar nunca. ¿Por qué? Porque estas secuestrado por tu amígdala y por hemisferio izquierdo. La primera es adicta al miedo y el segundo a la rumiación y el análisis. Lo cual quiere decir que si has llegado a la conclusión de que igual, en un 51%, podría venirte bien X… ES ASÍ. Es así porque te lo está diciendo tu hemisferio derecho y lo poco que queda cuerdo del izquierdo, que están *luchando* contra la otra mitad de tu cerebro. Todo esto es simbólico, pero creo que ya me entiendes. En realidad, ese 51% es el 151% sobre 200% de tu ser que te está diciendo: hazlo, experimenta. Apúntate a esa clase de baile, al gimnasio, empieza a pintar, pídele a ese amigo quedar para tomar un café…
 
 **EXPERIMENTA. Y así podrás poner en marcha la neuroplasticidad y comenzar a construir nuevas autopistas. Serenas, fluidas y productivas** 😉.
-
-### Conectemos
-
-**Aviso**: Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si te parece que pueda ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)** 😉.

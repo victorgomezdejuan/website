@@ -63,7 +63,3 @@ Lo que más me ha ayudado, de lejos, es el sistema **[Más Meta de Íñigo Lacas
 Y hasta aquí este post doble. Espero no haberte aburrido mucho. No quiero dármelas de nada, pero espero también que sepas valorar el dolor que tiene que atravesar una persona perfeccionista para poner sobre el «papel» todos los baches que ha pasado y las ayudas que ha necesitado. Aún así, he intentado centrarme en aquello que pueda ayudarte. Pero poner las cosas en contexto es inevitable.
 
 Un fuerte abrazo y nos *leemos* en el camino 😉.
-
-### Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

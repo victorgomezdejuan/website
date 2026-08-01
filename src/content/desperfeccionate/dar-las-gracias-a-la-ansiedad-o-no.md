@@ -54,7 +54,3 @@ Pero con el tema de dar gracias a la ansiedad he hecho como con el tema de si ve
 **Me da igual, porque el resultado va a ser el mismo**: elijo aprender porque es de lejos mejor opción que no hacerlo. Elijo poner consciencia sobre aquello que era inconsciente porque lo contrario no me ha reportado resultados satisfactorios.
 
 No sé si doy gracias o no a la ansiedad. Y me da lo mismo. Porque mi ruta va a seguir marcada por el objetivo de ganar en serenidad, fluidez y productividad. Enfoquémonos en lo importante. Y dejemos fluir. Porque la vida fluye. Fluía antes de nuestra existencia y lo hará también tras nuestra muerte.
-
-### Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

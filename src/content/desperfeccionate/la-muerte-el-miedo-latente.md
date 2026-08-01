@@ -37,7 +37,3 @@ La realidad es que, hay veces que funcionas sin un "yo". Cuando estás "enfrasca
 Si esto es verdad, y es algo que tendrás que verificar en base a tu experiencia, pues de otra manera no sirve para nada, la pregunta que surge es, ¿y puedo incrementar la aparición de esos momentos y alargar su duración? **No entres en especulaciones arbitrarias, expectativas, con ansia de encontrar la solución, buscando el cómo.** Quédate con esa pregunta, deja que resuene en tu interior, sin caer en automatismos e inercias. Y si caes, simplemente observálas. Es imposible entender un problema en toda su amplitud y profundidad si únicamente te enfocas en la solución, en escapar de él.
 
 Hasta aquí el post 😊. Seguramente siga abordando este tema del "yo" en el blog, pero **te animo a que lo indagues por tu cuenta**. Pues ahí reside la verdadera fuerza de cambio. El blog te puede aportar alguna pequeña clave, pero no te va a dar ninguna solución. Más bien algún entretenimiento. Pero seguro que buscas algo más.
-
-## Conectemos
-
-Adicional al blog, existe una newsletter donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

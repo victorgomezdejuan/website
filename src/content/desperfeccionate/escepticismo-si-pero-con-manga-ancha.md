@@ -33,7 +33,3 @@ Mi camino hasta ahora ha estado lleno de experiencias y creencias variopintas. T
 En ciertas ocasiones, envidio a aquellas personas que caminan con paso firme sobre asfalto llano con sus ideas anquilosadas. Creyendo *a fuego* en una ideología, estilo de vida, forma de relacionarse o personalidad. Pero, me temo que no es mi camino, así que ya he dejado de intentar, al menos conscientemente, adaptarme a él. Será por la forma de mis pies (con un arco exagerado) pero empiezo a vislumbrar que mi camino se parece más a uno que alterna vegetación fresca y agradable, cardos puntiagudos, rocas ardiendo, subidas costosas y bajadas plácidas, tierra húmeda, piedritas incómodas...
 
 **De momento lo mío va casi más de caerse y levantarte que de permanecer erguido.** Y es que, si paso mucho tiempo de pie parado, me suele doler la espalda. Cuerpo y mente, siempre unidos 😉.
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

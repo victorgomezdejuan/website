@@ -33,7 +33,3 @@ Pero, cuando la ponemos al servicio de la mejora de nuestro bienestar y el de lo
 Y, además de todo eso, de forma un poco contraintuitiva, **nos convertiremos también en personas mucho más eficaces**. Ya no iremos luchando contra todo, sino aprovechando lo que la vida nos ofrece en cada momento. Que para tod@s los que vivimos en países *desarrollados* (tecnologícamente, porque de otras cosas...) es inmenso, casi infinito.
 
 No nos pasemos los días enfadados y criticando lo que podría ser (o sí, pero "disfruta" de los resultados), y centrémonos en lo que la vida nos ofrece en cada momento. Para poder así estar receptiv@s, atent@s... En definitiva, para sentirnos viv@s. Pues **sólo los muertos son aquellos que no pueden disfrutar de la realidad.**
-
-## Conectemos
-
-Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

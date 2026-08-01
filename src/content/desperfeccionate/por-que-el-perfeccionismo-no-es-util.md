@@ -69,11 +69,3 @@ Si no tienes tanto tiempo, o ganas, o lo que sea, puedes tirar por la oferta de�
 **Nota**: No me llevo comisión de ninguna de las personas, libros o formaciones citadas.
 
 **Nota 2**: Artículo originalmente publicado en mi web personal [**www.victorgomezdejuan.com**](https://www.victorgomezdejuan.com/2020/06/04/por-que-el-perfeccionismo-no-ayuda-aunque-creamos-que-si/)
-
-#### Recibe las novedades del blog en tu correo
-
-He creado una lista de suscripción para que puedas recibir de manera semanal (en caso de que esa semana haya publicado algún post nuevo) las novedades del blog.
-
-Puedes apuntarte a través de [**este enlace**](http://eepurl.com/g86S-b).
-
-¡Gracias!

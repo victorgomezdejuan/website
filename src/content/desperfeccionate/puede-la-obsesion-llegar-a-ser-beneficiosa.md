@@ -37,7 +37,3 @@ Así, dependiendo de nuestro estado de ánimo, del tema del que estemos hablando
 Al final, **la obsesión no es más que un aferramiento fuerte a una persona, idea, objeto u actividad**. Es lo que creemos que en un momento determinado nos hace sentir vivos, plenamente "comprometid*@*s" con algo o alguien. Hay quién, por ejemplo, tiene un fuerte apego por el *running*. Así, muchas personas dicen que si no corren 3 ó 4 días a la semana "no son personas". O aquellas que sin un trabajo que les llene, no se sienten bien. U otras que viven por y para los hij@s. Ejemplo hay miles. Prácticamente tod@s tenemos los nuestros.
 
 En el comienzo, todo parece ir bien: mejoro físicamente, soy reconocid@ en mi trabajo, proporciono a mis hij@s todo lo que puedo y más... Pero, **con el tiempo, la obsesión o apego excesivo, va erosionando todo lo que toca**, como ocurría en la fábula del rey Midas. Primero, al estar centrad@s en algo en concreto, vamos dinamitando el resto cosas: relaciones, salud, otros intereses... Pero a largo plazo, la obsesión va haciendo mella sobre el propio objeto de la obsesión y se producen enfados, frustración, patologías... Y, por último, acaba destruyendo, o deteriorando, nuestro propio ser. Mejor no dejar que la sangre llegue al río, ¿no crees? 😉.
-
-## Conectemos
-
-Adicional al blog, existe una newsletter donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si crees que puede ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)**.

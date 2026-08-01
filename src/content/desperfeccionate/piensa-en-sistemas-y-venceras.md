@@ -71,7 +71,3 @@ Piénsalo, ¿cuantas veces has descuidado ciertas dimensiones de tu vida (corpor
 **Mi consejo es que dejes de lado el enfoque perfeccionista y abraces el Systems Thinking**. Cuando obtengas resultados negativos, pregúntate desde qué enfoque has actuado o pensado.
 
 Y una última cosa dejo para tu reflexión. Formamos parte de un sistema que no entendemos, como es el universo, o más bien, [**lo que nosotros percibimos como universo**](https://www.amazon.es/Case-Against-Reality-Evolution-Truth/dp/0393254690/ref=sr_1_1?adgrpid=70705649449&dchild=1&gclid=Cj0KCQjw3s_4BRDPARIsAJsyoLOWRJAOc2_HhsWNFOaefj6O9weO29e79wsA3TU0flVcpCLiHArORdUaArIpEALw_wcB&hvadid=338686884606&hvdev=c&hvlocphy=20271&hvnetw=g&hvqmt=e&hvrand=15647065417223339286&hvtargid=kwd-817457126637&hydadcr=14580_1829898&keywords=case+against+reality&qid=1595158946&sr=8-1&tag=hydes-21) que te ha hecho de una forma determinada y te va llevando a vivir ciertas experiencias. ¿Quiénes somos nosotros para creer que tanto nosotros como el resto de seres necesitamos una experiencia diferente de la que tenemos? Quizás esto te haga replantearte ese afán que tenemos de querer cambiar todo para adaptarlo a nuestro *mindset* egoíco basado en enfoques defectuosos. Ahí te dejo reflexionando 😊.
-
-### Conectemos
-
-**Aviso**: Tengo una newsletter, adicional al blog, donde comparto reflexiones más espontáneas, íntimas, directas y cortas. Si te parece que pueda ser de tu interés, te animo a **[suscribirte](https://www.desperfeccionate.com/conectemos-de-verdad/)** 😉.

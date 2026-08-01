@@ -49,7 +49,3 @@ La clave que trasciente a todas las demás, de todas formas, es **trabajarse sob
 Recuerda, [**pon a prueba al maestro o maestra**](https://www.revistaahora.com.ar/sentir/ramiro-calle-hay-que-poner-a-prueba-al-maestro/), pero siempre desde una actitud de respeto, amor y comprensión tanto hacia esa persona como hacia ti mism@.
 
 ¡Feliz búsqueda de referentes! 😊
-
-### Suscripción a la newsletter
-
-¡No te pierdas ningún post! Para recibir semanalmente el extracto de los posts que voy publicando (y alguna cosa más si se me ocurre) puedes apuntarte a la lista de distribución del blog en [**este enlace**](http://eepurl.com/g86S-b).

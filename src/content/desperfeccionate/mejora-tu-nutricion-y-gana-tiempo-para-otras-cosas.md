@@ -80,9 +80,3 @@ En este caso suelo, a veces, dejar la ensalada preparada con antelación (sin al
 Hay gente que le parece mucho (es un buen cancarro), pero te comes una pieza de fruta después (si tienes ganas) y, al saciarte bien, se te quita la gula de comer nada luego (los típicos dulces). En mi caso, sin embargo, suele caer alguna onza de chocolate 😊.
 
 Imagínate que incorporas estas recetas en 4 de los 7 días de la semana. Ya estarías asegurando comer sano y de manera sencilla en 8 de las 21 comidas principales del día. Una cifra nada desdeñable. Recuerda, se trata de **equilibrar entre una alimentación saludable y otros aspectos que te aportan bienestar a tí y a las personas de tu entorno**. La regla del 80/20 aplica muy bien en nutrición y deporte 😉.
-
-#### Suscripción
-
-Si te ha gustado el post y deseas recibir semanalmente el extracto de los posts que voy publicando puedes apuntarte a la lista de distribución del blog en [**este enlace**](http://eepurl.com/g86S-b).
-
-Igual incluso me animo a dar alguna sorpresa de vez en cuando 😉.
