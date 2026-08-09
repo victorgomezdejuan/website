@@ -2,6 +2,7 @@
 title: 'Cómo mejorar tu uso de la IA a través del contexto'
 description: 'Una técnica sencilla en 3 partes para dar a ChatGPT, Claude, Gemini o Grok el contexto que necesitan y sacarles mucho más partido.'
 pubDate: 'Aug 9 2026'
+heroImage: '../../assets/mejorar-uso-ia-contexto/mejorar-uso-ia-contexto-hero.png'
 ---
 
 Queremos la pastilla mágica: pulsar un botón, hacer click o deslizar la pantalla… Ya nos da pereza hasta llamar. Y me incluyo. Somos seres perezosos, buscamos la vía rápida. Actuamos o consumimos mucho más de lo que pensamos… No, nada de esto es malo per sé. Es parte de nuestra biología, y ésta nos ha llevado hasta donde estamos ahora, que no está nada mal. De hecho, no es que seamos perezosos: **somos seres eficientes y eficaces**, orientados a la supervivencia, la reproducción y el cuidado, no a la búsqueda de la verdad. Visto así no tiene tan mala pinta, ¿no? 🙂.
