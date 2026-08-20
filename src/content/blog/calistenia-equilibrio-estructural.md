@@ -2,6 +2,7 @@
 title: 'De la calistenia al equilibrio estructural'
 description: 'Mi recorrido personal por el fútbol, la calistenia, las kettlebells, la barra olímpica y el crossfit hasta llegar al equilibrio estructural.'
 pubDate: 'Aug 20 2026'
+heroImage: '../../assets/calistenia-equilibrio-estructural/calistenia-equilibrio-estructural-hero.png'
 ---
 
 Antes de nada, quiero dejar claro que esto no pretende ser una guía universal para todo el mundo. Aunque es cierto que genéticamente somos muy parecidos, las pequeñas diferencias, sumadas a nuestra experiencia vital, dan lugar a expresiones muy diferentes cualitativamente hablando. De ahí la importancia de conocerse a uno mismo, ser honesto, y trazar tu propio camino. Esto aplica para todo, y en el deporte no puede ser menos.
@@ -67,6 +68,8 @@ En ese momento, como casi siempre en esta historia, ya me había comprado y leí
 A Pedro, la persona detrás de Anticulturista, hacía tiempo que le había *comprado el libro*, en el sentido de que me encaja muchas de las cosas que dice: equilibro estructural, prevención de lesiones, carga que permita hacer más cosas que entrenar fuerza en el gimnasio… Un nuevo paradigma, un nuevo juguete 🙂.
 
 Y con eso estoy ahora mismo, comenzando el programa de Anti-TRT con muy buenas sensaciones, disfrutando de su división en días de excéntrico, isométrico y concéntrico, volviendo a dar un poco la nota en el gimnasio, y volviendo a las sesiones semanales de sprints después de tantos años. Recuperando la rodilla poco a poco, fortaleciendo espalda baja e isquiotibiales, trabajando pequeños grupos musculares olvidados… Encantado, al menos de momento. Incluso me permite hacer otros deportes como padel o salir a hacer rutas sin sentir las piernas sobrecargadas desde el primer kilómetro.
+
+<video src="/videos/calistenia-equilibrio-estructural-hang-clean.mp4" controls style="max-width: 100%; height: auto;"></video>
 
 ## Conclusión
 
