@@ -178,6 +178,10 @@ hr {
 	max-width: min(var(--bleed-width), 100%);
 	vertical-align: middle;
 }
+/* A captioned image on its own matches the width of one image in a pair. */
+.prose > p:has(> img:only-child):has(+ .caption) img {
+	max-width: min((var(--bleed-width) - 0.75em) / 2, 100%);
+}
 /* Two images in one Markdown paragraph, followed by a .caption-pair,
    sit side by side. */
 .prose > p:has(> img + img):has(+ .caption-pair) {
