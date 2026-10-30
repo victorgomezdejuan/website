@@ -45,7 +45,7 @@ Tengo dos desayunos estándar muy parecidos pero algo diferentes dependiendo de 
 
 Este apartado va a ser muy corto. No va de recetas, sino de trucos mucho más sencillos.
 
-- **[Wetaca](https://wetaca.com/)**: Mis platos principales de la comidas entre semana me los provee esta empresa. Son platos muy parecidos a los que yo haría si tuviera tiempo y ganas. Comida real y variada. Más que suficiente. Si tu empresa tiene ticket restaurante, puedes descontártelo del IRPF.
+- **[Wetaca](https://wetaca.com/)**: Mis platos principales de las comidas entre semana me los provee esta empresa. Son platos muy parecidos a los que yo haría si tuviera tiempo y ganas. Comida real y variada. Más que suficiente. Si tu empresa tiene ticket restaurante, puedes descontártelo del IRPF.
 - Huevos cocidos, humus, salmorejo, tortilla de patata: A veces el plato del Wetaca se me queda corto, por lo que al terminar suelo comerme un huevo cocido con un poco de jamón o atún, o alguna cosa comprada en el super que no lleve azúcar añadido.
 - De postre, fruta: Innegociable.
 
